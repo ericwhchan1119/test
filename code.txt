@@ -1,1 +1,4 @@
-sfsdf
+dim asd as char
+
+dim 111 as number
+
